@@ -1,11 +1,8 @@
 # AG Corne ZMK Repository
 
-**This keyboard is not the same as [foostan's Corne](https://github.com/foostan/crkbd). It will not work with standard `corne` firmware.**
 
 <img width="1067" alt="Screenshot 2025-04-22 at 11 29 04 PM" src="https://github.com/user-attachments/assets/9166d7d3-7cac-4164-8cf5-ca3bdd78075e" />
 
-
-If you need a 3D model of this keyboard, email `380465425@qq.com`.
 
 ## Instructions
 
@@ -23,3 +20,9 @@ If you need a 3D model of this keyboard, email `380465425@qq.com`.
 ## Gem View
 
 https://github.com/M165437/nice-view-gem
+
+## Notes
+
+**This keyboard is not the same as [foostan's Corne](https://github.com/foostan/crkbd). It will not work with standard `corne` firmware.**
+
+If you need a 3D model of this keyboard, email `380465425@qq.com`.
