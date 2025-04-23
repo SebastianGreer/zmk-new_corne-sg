@@ -2,7 +2,8 @@
 
 **This keyboard is not the same as [foostan's Corne](https://github.com/foostan/crkbd). It will not work with standard `corne` firmware.**
 
-![Photo of Eyelash Peripherals Corne](https://ae01.alicdn.com/kf/Sa797fee25edd44248fbfdb0e13d44e00B.jpg)
+<img width="1067" alt="Screenshot 2025-04-22 at 11 29 04 PM" src="https://github.com/user-attachments/assets/9166d7d3-7cac-4164-8cf5-ca3bdd78075e" />
+
 
 If you need a 3D model of this keyboard, email `380465425@qq.com`.
 
