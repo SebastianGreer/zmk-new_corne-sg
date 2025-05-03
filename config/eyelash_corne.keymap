@@ -78,8 +78,8 @@
             bindings = <&kp ESCAPE>;
             key-positions = <2 3>;
             layers = <0>;
-            timeout-ms = <125>;
-            require-prior-idle-ms = <125>;
+            timeout-ms = <100>;
+            require-prior-idle-ms = <200>;
         };
 
         Tab {
