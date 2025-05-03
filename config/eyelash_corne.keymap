@@ -34,7 +34,7 @@
             bindings = <&kp>, <&kp>;
 
             #binding-cells = <2>;
-            tapping-term-ms = <250>;
+            tapping-term-ms = <300>;
             quick-tap-ms = <175>;
             flavor = "tap-preferred";
         };
@@ -70,7 +70,7 @@
         BackSpace {
             bindings = <&kp BACKSPACE>;
             key-positions = <10 9>;
-            timeout-ms = <100>;
+            timeout-ms = <150>;
             layers = <0>;
         };
 
@@ -78,7 +78,8 @@
             bindings = <&kp ESCAPE>;
             key-positions = <2 3>;
             layers = <0>;
-            timeout-ms = <100>;
+            timeout-ms = <125>;
+            require-prior-idle-ms = <125>;
         };
 
         Tab {
