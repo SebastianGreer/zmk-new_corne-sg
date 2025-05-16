@@ -29,7 +29,7 @@ layers:
   - {t: L, h: '$$mdi:apple-keyboard-option$$'}
   - {t: ;, h: '$$mdi:apple-keyboard-control$$', s: ':'}
   - {t: '''', s: '"'}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - $$mdi:apple-keyboard-control$$
   - Z
   - X
   - C
@@ -297,13 +297,10 @@ layers:
 combos:
 - p: [10, 9]
   k: {t: '$$mdi:backspace$$', type: backspace}
-  l: [QWERTY]
-- p: [2, 3]
-  k: $$mdi:keyboard-esc$$
-  l: [QWERTY]
+  l: [QWERTY, NumSym]
 - p: [30, 31]
   k: $$mdi:keyboard-tab$$
-  l: [QWERTY]
+  l: [QWERTY, NumSym]
 - p: [39, 38]
   k: {t: '$$mdi:keyboard-return$$', type: enter}
-  l: [QWERTY]
+  l: [QWERTY, NumSym]
