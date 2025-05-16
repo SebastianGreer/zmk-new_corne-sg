@@ -108,10 +108,10 @@
 
         NumSym {
             bindings = <
-&trans  &kp PIPE                &BracketTap RIGHT_BRACKET LEFT_BRACKET  &BracketTap RIGHT_BRACE LEFT_BRACE  &BracketTap RIGHT_PARENTHESIS LEFT_PARENTHESIS  &kp BACKSLASH                    &trans          &mt ASTERISK PLUS  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &trans        &trans
-&trans  &HRM LCTRL EXCLAMATION  &HRM LEFT_ALT AT_SIGN                   &HRM LEFT_GUI HASH                  &HRM LEFT_SHIFT DOLLAR                          &kp PERCENT              &trans  &trans  &trans  &kp EQUAL          &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp NUMBER_0  &trans
-&trans  &kp CARET               &kp AMPERSAND                           &kp UNDERSCORE                      &kp TILDE                                       &kp GRAVE      &trans            &trans          &mt SLASH MINUS    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans        &trans
-                                                                        &trans                              &trans                                          &trans                                           &trans             &trans        &trans
+&trans  &kp PIPE                &BracketTap RIGHT_BRACKET LEFT_BRACKET  &BracketTap RIGHT_BRACE LEFT_BRACE  &BracketTap RIGHT_PARENTHESIS LEFT_PARENTHESIS  &kp BACKSLASH                            &mmv MOVE_UP                     &mt ASTERISK PLUS  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &trans        &trans
+&trans  &HRM LCTRL EXCLAMATION  &HRM LEFT_ALT AT_SIGN                   &HRM LEFT_GUI HASH                  &HRM LEFT_SHIFT DOLLAR                          &kp PERCENT              &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp EQUAL          &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp NUMBER_0  &trans
+&trans  &kp CARET               &kp AMPERSAND                           &kp UNDERSCORE                      &kp TILDE                                       &kp GRAVE      &trans                    &mmv MOVE_DOWN                   &mt SLASH MINUS    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans        &trans
+                                                                        &trans                              &trans                                          &trans                                                                    &trans             &trans        &trans
             >;
 
             label = "NumSym";
